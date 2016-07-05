@@ -1,5 +1,5 @@
 # jsConeReader
-Cone pose reader for Maya 2016, after Marco Giordano
+Work in progress cone pose reader for Maya 2016, after Marco Giordano. Needs testing.
 
 Original tutorial can be found here:
 https://vimeo.com/64958089
